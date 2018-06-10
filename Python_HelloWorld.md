@@ -1,3 +1,2 @@
 # Hello-World
-#just for practicing python
-print("hello world")//python
+print("hello world")//just for practicing python
